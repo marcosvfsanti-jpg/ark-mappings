@@ -81,6 +81,14 @@
       "toClass": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP"
     },
     {
+    "fromClass": "/Game/Rex_high_level/Rex_high_level.Rex_high_level",
+    "toClass": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP"
+    },
+    {
+    "fromClass": "/Game/Rex_high_level/Rex_high_level.Rex_high_level",
+    "toClass": "/Game/ASA/Dinos/Rex/Rex_Character_BP.Rex_Character_BP"
+    },
+    {
       "fromClass": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP",
       "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
     }
